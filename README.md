@@ -145,20 +145,6 @@ The application validates:
 * Department
 * Unique Email
 
-## Future Enhancements
-
-* Authentication and Authorization
-* Role-Based Access Control
-* Dark Mode
-* Export Users to Excel/PDF
-* Import Users using CSV
-* Server-side Pagination
-* Server-side Search
-* User Profile Images
-* Dashboard Statistics
-* Unit Testing
-* API Integration with a real backend
-
 ## Assumptions
 
 1. **Mock data expansion** – JSONPlaceholder's `/users` endpoint returns only 10 users. To demonstrate pagination and filtering meaningfully, the hook simulates 50 users by duplicating the 10 base users with modified names and random departments.
@@ -184,3 +170,19 @@ The application validates:
 - **Unit tests** – Add Vitest + React Testing Library for the hook and components.
 - **Dark mode** – CSS custom properties are already structured for easy theming.
 - **Export to CSV** – Let admins download the filtered user list.
+
+
+## Author
+
+**Annamdevula Veera Venkata Siva Satish**
+
+B.Tech - Computer Science Engineering
+
+Mandava Institute of Engineering and Technology
+
+Email: [shivasatish194@gmail.com]
+
+---
+
+## Thank You
+Thank you for reviewing my submission. This project reflects my ability to build a modern React application with REST API integration, complete CRUD functionality, responsive user interfaces, client-side validation, and effective browser storage management.
