@@ -67,8 +67,8 @@ src/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/user-management-dashboard.git
-cd user-management-dashboard
+git clone https://github.com/shiva8273/User_Management_Dashboard.git
+cd User_Management_Dashboard
 
 # 2. Install dependencies
 npm install
